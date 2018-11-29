@@ -1,0 +1,8 @@
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\CSharpPractice\bin\Debug\CSharpPractice.dll
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\CSharpPractice\bin\Debug\CSharpPractice.pdb
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\CSharpPractice\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\CSharpPractice\obj\Debug\CSharpPractice.csprojResolveAssemblyReference.cache
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\CSharpPractice\obj\Debug\CSharpPractice.dll
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\CSharpPractice\obj\Debug\CSharpPractice.pdb
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\CSharpPractice\bin\Debug\CSharpPractice.dll.CodeAnalysisLog.xml
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\CSharpPractice\bin\Debug\CSharpPractice.dll.lastcodeanalysissucceeded

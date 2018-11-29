@@ -1,0 +1,8 @@
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\FirstLesson\bin\Debug\FirstLesson.exe.config
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\FirstLesson\bin\Debug\FirstLesson.exe
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\FirstLesson\bin\Debug\FirstLesson.pdb
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\FirstLesson\obj\Debug\FirstLesson.exe
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\FirstLesson\obj\Debug\FirstLesson.pdb
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\FirstLesson\bin\Debug\FirstLesson.exe.CodeAnalysisLog.xml
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\FirstLesson\bin\Debug\FirstLesson.exe.lastcodeanalysissucceeded
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\FirstLesson\obj\Debug\FirstLesson.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\LoppsAndSwitches\bin\Debug\LoppsAndSwitches.exe.config
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\LoppsAndSwitches\bin\Debug\LoppsAndSwitches.exe
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\LoppsAndSwitches\bin\Debug\LoppsAndSwitches.pdb
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\LoppsAndSwitches\obj\Debug\LoppsAndSwitches.csprojResolveAssemblyReference.cache
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\LoppsAndSwitches\obj\Debug\LoppsAndSwitches.exe
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\LoppsAndSwitches\obj\Debug\LoppsAndSwitches.pdb

@@ -1,0 +1,10 @@
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\StoreInvoiceTest\bin\Debug\StoreInvoiceTest.dll
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\StoreInvoiceTest\bin\Debug\StoreInvoiceTest.pdb
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\StoreInvoiceTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\StoreInvoiceTest\bin\Debug\StoreExample.exe
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\StoreInvoiceTest\bin\Debug\StoreExample.pdb
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\StoreInvoiceTest\obj\Debug\StoreInvoiceTest.csprojResolveAssemblyReference.cache
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\StoreInvoiceTest\obj\Debug\StoreInvoiceTest.dll
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\StoreInvoiceTest\obj\Debug\StoreInvoiceTest.pdb
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\StoreInvoiceTest\bin\Debug\StoreInvoiceTest.dll.CodeAnalysisLog.xml
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\StoreInvoiceTest\bin\Debug\StoreInvoiceTest.dll.lastcodeanalysissucceeded

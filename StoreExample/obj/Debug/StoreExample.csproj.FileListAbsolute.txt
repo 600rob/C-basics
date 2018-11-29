@@ -1,0 +1,7 @@
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\StoreExample\bin\Debug\StoreExample.exe.config
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\StoreExample\bin\Debug\StoreExample.exe
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\StoreExample\bin\Debug\StoreExample.pdb
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\StoreExample\obj\Debug\StoreExample.exe
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\StoreExample\obj\Debug\StoreExample.pdb
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\StoreExample\bin\Debug\StoreExample.exe.CodeAnalysisLog.xml
+H:\Visual Studio 2015\Projects\C sharp automation code\FirstLesson\StoreExample\bin\Debug\StoreExample.exe.lastcodeanalysissucceeded
